@@ -6,11 +6,11 @@ Mohammad Ali
 
 #### Your section leader's name
 
-Rosen
+Nichol
 
 #### Project title
 
-Snake.iro
+
 
 ***
 
