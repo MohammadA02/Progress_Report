@@ -10,7 +10,7 @@ Nichol
 
 #### Project title
 
-
+Fortunate Futue
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Made base code, put in majority of the ideas I had for the project.
 
 #### What have you not done for your project yet?
 
-TODO
+Haven't finished it overall, also haven't completed every little thing for it.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None really. Sometime I get stuck on some code and what to do, but I figure it out.
